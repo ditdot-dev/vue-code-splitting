@@ -11,7 +11,7 @@ Example of code splitting in Vue based on computed property and dynamic componen
 
 ## Article
 
-- [Code Splitting in Vue](https://www.ditdot.hr/en/code-splitting-in-vue)
+- [Code Splitting in Vue](https://www.ditdot.hr/en/code-splitting-in-vue-js)
 
 
 ## Clone
