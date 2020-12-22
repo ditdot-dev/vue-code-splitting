@@ -13,7 +13,7 @@
 
   export default {
     components: {
-        Profile
+      Profile
     }
   }
 </script>

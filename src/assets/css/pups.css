@@ -72,7 +72,6 @@ button.Marshall.active {
 
 .profile {
   height: 70vh;
-  /*max-height: 600px;*/
   display: flex;
   align-items: center;
   transform: translateZ(0);
@@ -97,7 +96,6 @@ button.Marshall.active {
 .profile-image {
   width: 50%;
   height: 100%;
-
 }
 
 .profile-image img {

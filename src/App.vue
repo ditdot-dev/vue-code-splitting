@@ -19,7 +19,7 @@
   export default {
     data() {
       return {
-        pups: ['Chase', 'Marshall','Rider'],
+        pups: ['Chase', 'Marshall', 'Rider'],
         user: 'Chase'
       }
     },
