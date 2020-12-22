@@ -47,4 +47,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## License
 
-MIT license.
+[MIT](https://github.com/ditdot-dev/vue-code-splitting-example/blob/main/LICENSE) license.
