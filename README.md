@@ -19,7 +19,7 @@ Example of code splitting in Vue based on computed property and dynamic componen
 Clone this repo to your local machine 
 
 ```shell
-$ git clone https://github.com/ditdot-dev/vue-code-splitting-example.git
+$ git clone https://github.com/ditdot-dev/vue-code-splitting.git
 ```
 
 ## Project setup
