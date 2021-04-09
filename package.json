@@ -2,19 +2,22 @@
   "name": "code-splitting",
   "version": "0.1.0",
   "private": true,
+  "description": "> Code splitting example app that demonstrates creating multiple code bundles with dynamic import statements.",
+  "author": "",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "main": "babel.config.js",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-plugin-babel": "^4.5.12",
+    "@vue/cli-plugin-eslint": "^4.5.12",
+    "@vue/cli-service": "^4.5.12",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
@@ -39,16 +42,13 @@
     "last 2 versions",
     "not dead"
   ],
-  "description": "> Code splitting example app that demonstrates creating multiple code bundles with dynamic import statements.",
-  "main": "babel.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ditdot-dev/vue-code-splitting-example.git"
-  },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ditdot-dev/vue-code-splitting-example/issues"
   },
-  "homepage": "https://github.com/ditdot-dev/vue-code-splitting-example#readme"
+  "homepage": "https://github.com/ditdot-dev/vue-code-splitting-example#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditdot-dev/vue-code-splitting-example.git"
+  }
 }
